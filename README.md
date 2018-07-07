@@ -1,6 +1,6 @@
 # Powerflow-Methods
 <h2>Introduction</h2>
-There are codes for 3 different solutions for solving powerflows in this repository:
+There are MATLAB codes for 3 different solutions for solving powerflows in this repository:
 <br/><br/>
 <b>1. Gauss Seidel Powerflow Solution</b> -> Fast convergence but not too accurate
 <br/><br/>
