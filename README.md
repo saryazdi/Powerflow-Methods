@@ -2,9 +2,9 @@
 <h2>Introduction</h2>
 There are codes for 3 different solutions for solving powerflows in this repository:
 
-1. Gauss Seidel Powerflow Solution Method: Fast convergence but not too accurate
-2. Newton Raphson Powerflow Solution Method: Slow convergence but very accurate
-3. Fast Decoupled Powerflow Solution Method: Good convergence and good accuracy
+<b>1. Gauss Seidel Powerflow Solution</b> -> Fast convergence but not too accurate
+<b>2. Newton Raphson Powerflow Solution</b> -> Slow convergence but very accurate
+<b>3. Fast Decoupled Powerflow Solution</b> -> Good convergence and good accuracy
 
 To know more about these solutions, you can check out this wikipedia page:
 https://en.wikipedia.org/wiki/Power-flow_study
